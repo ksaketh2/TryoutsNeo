@@ -11,6 +11,16 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RabbitMQ", "RabbitMQ", "{93
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HelloWorld", "HelloWorld", "{017F8C05-6B2D-44DC-9384-64CBDE188CB5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gRPC", "gRPC", "{A80EAA37-0FC4-4F12-A457-510C8AD75767}"
+	ProjectSection(SolutionItems) = preProject
+		gRPC\.gitkeep = gRPC\.gitkeep
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SourceGenerators", "SourceGenerators", "{B71AE421-2E14-4302-B598-A139237D7B56}"
+	ProjectSection(SolutionItems) = preProject
+		SourceGenerators\.gitkeep = SourceGenerators\.gitkeep
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

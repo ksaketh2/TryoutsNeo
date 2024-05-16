@@ -31,6 +31,22 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Redis", "Redis", "{A43BB27A
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Quartz.NET", "Quartz.NET", "{E60A1639-A648-4542-AABF-3E1778654ADE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".NETFeatureManagement", ".NETFeatureManagement", "{94B8D731-7EDD-42AB-901A-3B419E688636}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".NETRateLimiting", ".NETRateLimiting", "{12C13CA5-D974-4256-B805-01402DC0D596}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ArchitecturalPatterns", "ArchitecturalPatterns", "{95BF743A-4AE2-4174-806C-5346784DFF40}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AutoMapper", "AutoMapper", "{7C399EA8-43D4-4722-B653-B6DC9EADC4AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AzureServiceBus", "AzureServiceBus", "{3428FB95-A6E9-4EE0-ADE5-C74CA12010CD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Benchmark.NET", "Benchmark.NET", "{59E3103A-04F8-43CB-9690-024FBAE73CDF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dapper", "Dapper", "{53C65D93-AA5F-41D0-8295-B3962A60A289}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dapr", "Dapr", "{63D780E3-6E16-43B9-92B0-A83060CFEFE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

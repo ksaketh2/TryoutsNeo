@@ -22,54 +22,117 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SourceGenerators", "SourceG
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQLite", "SQLite", "{8BF2C906-FC28-4E7A-8BD8-2D3910B5B529}"
+	ProjectSection(SolutionItems) = preProject
+		SQLite\.gitkeep = SQLite\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Roslyn", "Roslyn", "{A315F186-509F-4FF7-9959-E41FD1521AD7}"
+	ProjectSection(SolutionItems) = preProject
+		Roslyn\.gitkeep = Roslyn\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RestSharp", "RestSharp", "{A3FAA5B4-198F-4799-927E-45A9B46F810B}"
+	ProjectSection(SolutionItems) = preProject
+		RestSharp\.gitkeep = RestSharp\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Redis", "Redis", "{A43BB27A-C2A1-4383-A550-956E42836214}"
+	ProjectSection(SolutionItems) = preProject
+		Redis\.gitkeep = Redis\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Quartz.NET", "Quartz.NET", "{E60A1639-A648-4542-AABF-3E1778654ADE}"
+	ProjectSection(SolutionItems) = preProject
+		Quartz.NET\.gitkeep = Quartz.NET\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".NETFeatureManagement", ".NETFeatureManagement", "{94B8D731-7EDD-42AB-901A-3B419E688636}"
+	ProjectSection(SolutionItems) = preProject
+		.NETFeatureManagement\.gitkeep = .NETFeatureManagement\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".NETRateLimiting", ".NETRateLimiting", "{12C13CA5-D974-4256-B805-01402DC0D596}"
+	ProjectSection(SolutionItems) = preProject
+		.NETRateLimiting\.gitkeep = .NETRateLimiting\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ArchitecturalPatterns", "ArchitecturalPatterns", "{95BF743A-4AE2-4174-806C-5346784DFF40}"
+	ProjectSection(SolutionItems) = preProject
+		ArchitecturalPatterns\.gitkeep = ArchitecturalPatterns\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AutoMapper", "AutoMapper", "{7C399EA8-43D4-4722-B653-B6DC9EADC4AF}"
+	ProjectSection(SolutionItems) = preProject
+		AutoMapper\.gitkeep = AutoMapper\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AzureServiceBus", "AzureServiceBus", "{3428FB95-A6E9-4EE0-ADE5-C74CA12010CD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Benchmark.NET", "Benchmark.NET", "{59E3103A-04F8-43CB-9690-024FBAE73CDF}"
+	ProjectSection(SolutionItems) = preProject
+		Benchmark.NET\.gitkeep = Benchmark.NET\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dapper", "Dapper", "{53C65D93-AA5F-41D0-8295-B3962A60A289}"
+	ProjectSection(SolutionItems) = preProject
+		Dapper\.gitkeep = Dapper\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dapr", "Dapr", "{63D780E3-6E16-43B9-92B0-A83060CFEFE1}"
+	ProjectSection(SolutionItems) = preProject
+		Dapr\.gitkeep = Dapr\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FluentValidation", "FluentValidation", "{BBD895B0-EA20-4E0D-BCF5-62225F7F4BAD}"
+	ProjectSection(SolutionItems) = preProject
+		FluentValidation\.gitkeep = FluentValidation\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hangfire", "Hangfire", "{264836DC-C013-4EE2-ACBB-B96D3A628979}"
+	ProjectSection(SolutionItems) = preProject
+		Hangfire\.gitkeep = Hangfire\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logging", "Logging", "{7572F02B-FA39-40BB-AD34-C8329A68EA09}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ML.NET", "ML.NET", "{0AD017C6-6211-4EE1-96D4-D03F53E882CA}"
+	ProjectSection(SolutionItems) = preProject
+		ML.NET\.gitkeep = ML.NET\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MassTransit", "MassTransit", "{D6B432B7-5937-48AB-AAFA-A74DF88632B7}"
+	ProjectSection(SolutionItems) = preProject
+		MassTransit\.gitkeep = MassTransit\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MediatR", "MediatR", "{5A0D13DA-6A09-4685-93BD-C35FEEFA10B4}"
+	ProjectSection(SolutionItems) = preProject
+		MediatR\.gitkeep = MediatR\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Misc", "Misc", "{FB46C2B0-0DAE-41E9-A3CB-71C0E008CF37}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WSA1", "WSA1", "{6546D1C1-35CD-4C79-8300-364B7A78968D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NodaTime", "NodaTime", "{22368790-DDC0-4FF2-9B8D-248024FB25D2}"
+	ProjectSection(SolutionItems) = preProject
+		NodaTime\.gitkeep = NodaTime\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nuke.build", "Nuke.build", "{9B1455F0-F0B7-4CD5-A80F-B7ED8F78A027}"
+	ProjectSection(SolutionItems) = preProject
+		Nuke.build\.gitkeep = Nuke.build\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OpenAPI", "OpenAPI", "{F3294590-C237-4481-8C1E-ED21B13E4D74}"
+	ProjectSection(SolutionItems) = preProject
+		OpenAPI\.gitkeep = OpenAPI\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Polly", "Polly", "{4F66028F-C8AB-400C-BAD3-DAFCCDE1EAAA}"
+	ProjectSection(SolutionItems) = preProject
+		Polly\.gitkeep = Polly\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Telemetry", "Telemetry", "{4A1715D5-9851-4D5E-9262-2A1C0BAC81B4}"
 EndProject
@@ -78,20 +141,44 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTesting", "UnitTesting", "{18B09108-D3C7-466F-BE73-4BA8A652955D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApplicationInsights", "ApplicationInsights", "{43744570-8DFA-4511-B636-8D3F6047E8F9}"
+	ProjectSection(SolutionItems) = preProject
+		Telemetry\ApplicationInsights\.gitkeep = Telemetry\ApplicationInsights\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AspNetHealthChecks", "AspNetHealthChecks", "{D8201F00-BA48-4668-9972-F7D430323378}"
+	ProjectSection(SolutionItems) = preProject
+		Telemetry\AspNetHealthChecks\.gitkeep = Telemetry\AspNetHealthChecks\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OpenTelemetry", "OpenTelemetry", "{103630E8-30C8-49B3-B1DA-C2E99EB1AFFF}"
+	ProjectSection(SolutionItems) = preProject
+		Telemetry\OpenTelemetry\.gitkeep = Telemetry\OpenTelemetry\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Prometheus", "Prometheus", "{56A57980-7F0F-4758-93BA-166C67B97866}"
+	ProjectSection(SolutionItems) = preProject
+		Telemetry\Prometheus\.gitkeep = Telemetry\Prometheus\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bogus", "Bogus", "{3A5F7C94-CFF3-4B8F-B398-A70599A55FFE}"
+	ProjectSection(SolutionItems) = preProject
+		UnitTesting\Bogus\.gitkeep = UnitTesting\Bogus\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FluentAssertions", "FluentAssertions", "{75A8F884-92CD-4DC4-9AB3-7F9396C14D30}"
+	ProjectSection(SolutionItems) = preProject
+		UnitTesting\FluentAssetions\.gitkeep = UnitTesting\FluentAssetions\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Moq", "Moq", "{B30A1A04-E65D-4399-8A6D-D1E8C8A30307}"
+	ProjectSection(SolutionItems) = preProject
+		UnitTesting\Moq\.gitkeep = UnitTesting\Moq\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "xUnit", "xUnit", "{575CD4B3-3F0C-4817-8013-7583C10752D9}"
+	ProjectSection(SolutionItems) = preProject
+		UnitTesting\xUnit\.gitkeep = UnitTesting\xUnit\.gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basics", "Basics", "{59EF8BBD-4A2F-4C03-9D6D-B129016BF816}"
 EndProject
@@ -108,6 +195,22 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinqTryouts", "LinqTryouts", "{6D6BC398-25FA-47D3-BC2C-F37397133D58}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pagination", "Pagination", "{CADEC977-5228-42C3-8DFB-99AE4B5540DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Features", ".NETFeatureManagement\Features\Features.csproj", "{1468ABC8-F201-4342-8B6D-39B6081E323F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DbRateLimiting", ".NETRateLimiting\DbRateLimiting\DbRateLimiting.csproj", "{84C73076-D644-46AB-BD7B-DCEF1010A779}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureServiceBus.Common", "AzureServiceBus\AzureServiceBus.Common\AzureServiceBus.Common.csproj", "{4661BB09-B3A4-4877-9792-4E46F78306E5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureServiceBus.Consumer", "AzureServiceBus\AzureServiceBus.Consumer\AzureServiceBus.Consumer.csproj", "{42FCBC99-F64A-4B0A-A73E-E3989F83E0DF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureServiceBus.Producer", "AzureServiceBus\AzureServiceBus.Producer\AzureServiceBus.Producer.csproj", "{261AA818-78DF-402A-9A06-0E24C5381499}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tryouts.Logging.BuiltIn", "Logging\Tryouts.Logging.BuiltIn\Tryouts.Logging.BuiltIn.csproj", "{27CF7245-CFEE-4FAF-B3E5-FB43CF1A4ACE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tryouts.Logging.Serilog", "Logging\Tryouts.Logging.Serilog\Tryouts.Logging.Serilog.csproj", "{CD579370-E1E6-408B-BA81-0541B853C2E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WSA1", "Misc\WSA1\WSA1.csproj", "{3E4A85AF-72F9-486B-8CF8-1C4C7BA4737F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -133,6 +236,70 @@ Global
 		{6DA4F5B8-AC37-4CB1-9EFD-C762DC28AF81}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6DA4F5B8-AC37-4CB1-9EFD-C762DC28AF81}.Release|x64.ActiveCfg = Release|x64
 		{6DA4F5B8-AC37-4CB1-9EFD-C762DC28AF81}.Release|x64.Build.0 = Release|x64
+		{1468ABC8-F201-4342-8B6D-39B6081E323F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1468ABC8-F201-4342-8B6D-39B6081E323F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1468ABC8-F201-4342-8B6D-39B6081E323F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1468ABC8-F201-4342-8B6D-39B6081E323F}.Debug|x64.Build.0 = Debug|Any CPU
+		{1468ABC8-F201-4342-8B6D-39B6081E323F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1468ABC8-F201-4342-8B6D-39B6081E323F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1468ABC8-F201-4342-8B6D-39B6081E323F}.Release|x64.ActiveCfg = Release|Any CPU
+		{1468ABC8-F201-4342-8B6D-39B6081E323F}.Release|x64.Build.0 = Release|Any CPU
+		{84C73076-D644-46AB-BD7B-DCEF1010A779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84C73076-D644-46AB-BD7B-DCEF1010A779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84C73076-D644-46AB-BD7B-DCEF1010A779}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{84C73076-D644-46AB-BD7B-DCEF1010A779}.Debug|x64.Build.0 = Debug|Any CPU
+		{84C73076-D644-46AB-BD7B-DCEF1010A779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84C73076-D644-46AB-BD7B-DCEF1010A779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84C73076-D644-46AB-BD7B-DCEF1010A779}.Release|x64.ActiveCfg = Release|Any CPU
+		{84C73076-D644-46AB-BD7B-DCEF1010A779}.Release|x64.Build.0 = Release|Any CPU
+		{4661BB09-B3A4-4877-9792-4E46F78306E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4661BB09-B3A4-4877-9792-4E46F78306E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4661BB09-B3A4-4877-9792-4E46F78306E5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4661BB09-B3A4-4877-9792-4E46F78306E5}.Debug|x64.Build.0 = Debug|Any CPU
+		{4661BB09-B3A4-4877-9792-4E46F78306E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4661BB09-B3A4-4877-9792-4E46F78306E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4661BB09-B3A4-4877-9792-4E46F78306E5}.Release|x64.ActiveCfg = Release|Any CPU
+		{4661BB09-B3A4-4877-9792-4E46F78306E5}.Release|x64.Build.0 = Release|Any CPU
+		{42FCBC99-F64A-4B0A-A73E-E3989F83E0DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42FCBC99-F64A-4B0A-A73E-E3989F83E0DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42FCBC99-F64A-4B0A-A73E-E3989F83E0DF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{42FCBC99-F64A-4B0A-A73E-E3989F83E0DF}.Debug|x64.Build.0 = Debug|Any CPU
+		{42FCBC99-F64A-4B0A-A73E-E3989F83E0DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42FCBC99-F64A-4B0A-A73E-E3989F83E0DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42FCBC99-F64A-4B0A-A73E-E3989F83E0DF}.Release|x64.ActiveCfg = Release|Any CPU
+		{42FCBC99-F64A-4B0A-A73E-E3989F83E0DF}.Release|x64.Build.0 = Release|Any CPU
+		{261AA818-78DF-402A-9A06-0E24C5381499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261AA818-78DF-402A-9A06-0E24C5381499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{261AA818-78DF-402A-9A06-0E24C5381499}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{261AA818-78DF-402A-9A06-0E24C5381499}.Debug|x64.Build.0 = Debug|Any CPU
+		{261AA818-78DF-402A-9A06-0E24C5381499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{261AA818-78DF-402A-9A06-0E24C5381499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{261AA818-78DF-402A-9A06-0E24C5381499}.Release|x64.ActiveCfg = Release|Any CPU
+		{261AA818-78DF-402A-9A06-0E24C5381499}.Release|x64.Build.0 = Release|Any CPU
+		{27CF7245-CFEE-4FAF-B3E5-FB43CF1A4ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CF7245-CFEE-4FAF-B3E5-FB43CF1A4ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CF7245-CFEE-4FAF-B3E5-FB43CF1A4ACE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{27CF7245-CFEE-4FAF-B3E5-FB43CF1A4ACE}.Debug|x64.Build.0 = Debug|Any CPU
+		{27CF7245-CFEE-4FAF-B3E5-FB43CF1A4ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CF7245-CFEE-4FAF-B3E5-FB43CF1A4ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27CF7245-CFEE-4FAF-B3E5-FB43CF1A4ACE}.Release|x64.ActiveCfg = Release|Any CPU
+		{27CF7245-CFEE-4FAF-B3E5-FB43CF1A4ACE}.Release|x64.Build.0 = Release|Any CPU
+		{CD579370-E1E6-408B-BA81-0541B853C2E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD579370-E1E6-408B-BA81-0541B853C2E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD579370-E1E6-408B-BA81-0541B853C2E1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CD579370-E1E6-408B-BA81-0541B853C2E1}.Debug|x64.Build.0 = Debug|Any CPU
+		{CD579370-E1E6-408B-BA81-0541B853C2E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD579370-E1E6-408B-BA81-0541B853C2E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD579370-E1E6-408B-BA81-0541B853C2E1}.Release|x64.ActiveCfg = Release|Any CPU
+		{CD579370-E1E6-408B-BA81-0541B853C2E1}.Release|x64.Build.0 = Release|Any CPU
+		{3E4A85AF-72F9-486B-8CF8-1C4C7BA4737F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E4A85AF-72F9-486B-8CF8-1C4C7BA4737F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E4A85AF-72F9-486B-8CF8-1C4C7BA4737F}.Debug|x64.ActiveCfg = Debug|x64
+		{3E4A85AF-72F9-486B-8CF8-1C4C7BA4737F}.Debug|x64.Build.0 = Debug|x64
+		{3E4A85AF-72F9-486B-8CF8-1C4C7BA4737F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E4A85AF-72F9-486B-8CF8-1C4C7BA4737F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E4A85AF-72F9-486B-8CF8-1C4C7BA4737F}.Release|x64.ActiveCfg = Release|x64
+		{3E4A85AF-72F9-486B-8CF8-1C4C7BA4737F}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -158,6 +325,14 @@ Global
 		{C8A2A38B-09AB-4780-9173-E0A66FEE208B} = {59EF8BBD-4A2F-4C03-9D6D-B129016BF816}
 		{6D6BC398-25FA-47D3-BC2C-F37397133D58} = {59EF8BBD-4A2F-4C03-9D6D-B129016BF816}
 		{CADEC977-5228-42C3-8DFB-99AE4B5540DD} = {14936134-37F3-4A5B-AF69-F41BB00C1C15}
+		{1468ABC8-F201-4342-8B6D-39B6081E323F} = {94B8D731-7EDD-42AB-901A-3B419E688636}
+		{84C73076-D644-46AB-BD7B-DCEF1010A779} = {12C13CA5-D974-4256-B805-01402DC0D596}
+		{4661BB09-B3A4-4877-9792-4E46F78306E5} = {3428FB95-A6E9-4EE0-ADE5-C74CA12010CD}
+		{42FCBC99-F64A-4B0A-A73E-E3989F83E0DF} = {3428FB95-A6E9-4EE0-ADE5-C74CA12010CD}
+		{261AA818-78DF-402A-9A06-0E24C5381499} = {3428FB95-A6E9-4EE0-ADE5-C74CA12010CD}
+		{27CF7245-CFEE-4FAF-B3E5-FB43CF1A4ACE} = {7572F02B-FA39-40BB-AD34-C8329A68EA09}
+		{CD579370-E1E6-408B-BA81-0541B853C2E1} = {7572F02B-FA39-40BB-AD34-C8329A68EA09}
+		{3E4A85AF-72F9-486B-8CF8-1C4C7BA4737F} = {6546D1C1-35CD-4C79-8300-364B7A78968D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F8FAC9C2-B767-46A0-AF9E-FB6E46B047E1}

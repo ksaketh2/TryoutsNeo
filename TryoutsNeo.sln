@@ -212,6 +212,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tryouts.Logging.Serilog", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WSA1", "Misc\WSA1\WSA1.csproj", "{3E4A85AF-72F9-486B-8CF8-1C4C7BA4737F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AI", "AI", "{4DBA0130-F3F8-40C8-9204-1714C42EBB91}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Copilot", "Copilot", "{DF78CDD2-5A44-454A-9BC0-0ACEB77B40EC}"
+	ProjectSection(SolutionItems) = preProject
+		AI\Copilot\.gitkeep = AI\Copilot\.gitkeep
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ML.NET", "ML.NET", "{384BE3F9-BF57-4E5A-8950-E824A3633F99}"
+	ProjectSection(SolutionItems) = preProject
+		AI\ML.NET\.gitkeep = AI\ML.NET\.gitkeep
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WindowsSemanticKernel", "WindowsSemanticKernel", "{DE5CF9D4-3F24-4F89-9F01-8DE5C035507D}"
+	ProjectSection(SolutionItems) = preProject
+		AI\WindowsSemanticKernel\.gitkeep = AI\WindowsSemanticKernel\.gitkeep
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -333,6 +350,9 @@ Global
 		{27CF7245-CFEE-4FAF-B3E5-FB43CF1A4ACE} = {7572F02B-FA39-40BB-AD34-C8329A68EA09}
 		{CD579370-E1E6-408B-BA81-0541B853C2E1} = {7572F02B-FA39-40BB-AD34-C8329A68EA09}
 		{3E4A85AF-72F9-486B-8CF8-1C4C7BA4737F} = {6546D1C1-35CD-4C79-8300-364B7A78968D}
+		{DF78CDD2-5A44-454A-9BC0-0ACEB77B40EC} = {4DBA0130-F3F8-40C8-9204-1714C42EBB91}
+		{384BE3F9-BF57-4E5A-8950-E824A3633F99} = {4DBA0130-F3F8-40C8-9204-1714C42EBB91}
+		{DE5CF9D4-3F24-4F89-9F01-8DE5C035507D} = {4DBA0130-F3F8-40C8-9204-1714C42EBB91}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F8FAC9C2-B767-46A0-AF9E-FB6E46B047E1}

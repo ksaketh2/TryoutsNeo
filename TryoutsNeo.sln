@@ -229,6 +229,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WindowsSemanticKernel", "Wi
 		AI\WindowsSemanticKernel\.gitkeep = AI\WindowsSemanticKernel\.gitkeep
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1", "P1\P1.csproj", "{8E0C8253-C287-450C-B9B4-0973E61BEE91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -317,6 +319,14 @@ Global
 		{3E4A85AF-72F9-486B-8CF8-1C4C7BA4737F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3E4A85AF-72F9-486B-8CF8-1C4C7BA4737F}.Release|x64.ActiveCfg = Release|x64
 		{3E4A85AF-72F9-486B-8CF8-1C4C7BA4737F}.Release|x64.Build.0 = Release|x64
+		{8E0C8253-C287-450C-B9B4-0973E61BEE91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E0C8253-C287-450C-B9B4-0973E61BEE91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E0C8253-C287-450C-B9B4-0973E61BEE91}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8E0C8253-C287-450C-B9B4-0973E61BEE91}.Debug|x64.Build.0 = Debug|Any CPU
+		{8E0C8253-C287-450C-B9B4-0973E61BEE91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E0C8253-C287-450C-B9B4-0973E61BEE91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E0C8253-C287-450C-B9B4-0973E61BEE91}.Release|x64.ActiveCfg = Release|Any CPU
+		{8E0C8253-C287-450C-B9B4-0973E61BEE91}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -353,6 +363,7 @@ Global
 		{DF78CDD2-5A44-454A-9BC0-0ACEB77B40EC} = {4DBA0130-F3F8-40C8-9204-1714C42EBB91}
 		{384BE3F9-BF57-4E5A-8950-E824A3633F99} = {4DBA0130-F3F8-40C8-9204-1714C42EBB91}
 		{DE5CF9D4-3F24-4F89-9F01-8DE5C035507D} = {4DBA0130-F3F8-40C8-9204-1714C42EBB91}
+		{8E0C8253-C287-450C-B9B4-0973E61BEE91} = {0E2AA2C6-FF7E-441C-98B4-EFDFE16AA318}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F8FAC9C2-B767-46A0-AF9E-FB6E46B047E1}
